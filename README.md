@@ -9,14 +9,6 @@ This project explores the physics of helicopter hovering on Earth and Mars. It c
 - Compare theoretical results with NASA’s Ingenuity drone.
 - Apply Newton’s laws to explain rotorcraft behavior (tail rotor, autorotation feasibility).
 
-## Repository Structure
-helicopter-hover-challenge/
-├─ README.md # This file
-├─ LICENSE # MIT License for code
-├─ notebooks/
-│ └─ hover_analysis.ipynb # Main Jupyter notebook with code
-├─ report.pdf #  Report with results, analysis and discussion
-
 ## Instructions
 1. Clone or download the repository.
 2. Open `notebooks/hover_analysis.ipynb` in Jupyter Notebook or Jupyter Lab.
