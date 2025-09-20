@@ -1,4 +1,6 @@
 # Helicopter Hover Challenge — Earth vs. Mars
+[![DOI](https://zenodo.org/badge/1060705510.svg)](https://doi.org/10.5281/zenodo.17165692)
+
 
 ## Overview
 This project explores the physics of helicopter hovering on Earth and Mars. It computes the minimum rotor speeds required for helicopters and small drones to hover, and compares the results with NASA’s Ingenuity drone on Mars. The project was completed as a **take-home assignment for the IIT Madras Online Aerospace Engineering Course – Fundamentals of Aerospace**, with additional analysis and reporting performed independently.
